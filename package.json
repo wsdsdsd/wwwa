@@ -1,0 +1,27 @@
+{
+  "name": "discord-nodejs-filesystem",
+  "version": "1.0.0",
+  "description": "1. git clone https://github.com/allssu/discord-nodejs-filesystem.git 2. npm install 3. node index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allssu/discord-nodejs-filesystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allssu/discord-nodejs-filesystem/issues"
+  },
+  "homepage": "https://github.com/allssu/discord-nodejs-filesystem#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "heroku": "^7.59.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "keywords": []
+}
